@@ -13,7 +13,7 @@ session_start();
 <body>
     <!-- En-tête -->
     <header>
-        <h1>Bienvenue dans l'application de gestion d'école</h1>
+        <h1>Bienvenue dans l'app de gestion d'école</h1>
     </header>
 
     <!-- Barre de navigation -->
